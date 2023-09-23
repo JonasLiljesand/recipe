@@ -1,4 +1,6 @@
 # Guacamole recipe
 
+Hey!
+
 This is an exercise repository.
-Enjoy!
+Please Enjoy!
